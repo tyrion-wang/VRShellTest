@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: "Assets/Scenes/Launcher3\u7C73.unity"
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: "Assets/Scenes/Launcher\u9002\u914D\u8DDD\u79BB.unity"
     guid: 6f9aae75804284a859cff961be97a29c
   - enabled: 0
@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/controller.unity
     guid: 5bf9e30a91a2e4234be65da6166b6a27
+  - enabled: 1
+    path: "Assets/Scenes/\u8FD1\u8DDD\u79BB\u6D4B\u8BD5.unity"
+    guid: 42159c7f95a32407d94b6019a420ba6b
+  - enabled: 0
+    path: Assets/Scenes/OculusGo.unity
+    guid: 69743c72342d248e7a650a71c6eda0b5
   m_configObjects: {}
